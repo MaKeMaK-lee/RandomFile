@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akatsuki\\source\\repos\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj": {}
+    "C:\\Users\\Akatsuki\\source\\GitHub\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akatsuki\\source\\repos\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj": {
+    "C:\\Users\\Akatsuki\\source\\GitHub\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akatsuki\\source\\repos\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj",
+        "projectUniqueName": "C:\\Users\\Akatsuki\\source\\GitHub\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj",
         "projectName": "RandomFile v_1.0",
-        "projectPath": "C:\\Users\\Akatsuki\\source\\repos\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj",
+        "projectPath": "C:\\Users\\Akatsuki\\source\\GitHub\\RandomFile\\RandomFile\\RandomFile v_1.0.csproj",
         "packagesPath": "C:\\Users\\Akatsuki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akatsuki\\source\\repos\\RandomFile\\RandomFile\\obj\\",
+        "outputPath": "C:\\Users\\Akatsuki\\source\\GitHub\\RandomFile\\RandomFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

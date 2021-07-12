@@ -16,7 +16,10 @@ namespace RandomFile
             string imadir = Directory.GetCurrentDirectory();
             var list = Directory.GetFiles(imadir);
             Console.WriteLine("Сколько?");
-            var numbers = await UseRandomOrgGenerateIntegers_1(Convert.ToInt32(Console.ReadLine()), list.Length, 1);
+            string tmp_console_line = Console.ReadLine();
+            int count = Convert.ToInt32(tmp_console_line==""?10:tmp_console_line);
+
+            var numbers = await UseRandomOrgGenerateIntegers_1(count, list.Length, 1);
 
             string DesktopPath = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
 
