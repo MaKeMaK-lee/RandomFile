@@ -1,0 +1,16 @@
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.csprojAssemblyReference.cache
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.AssemblyInfoInputs.cache
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.AssemblyInfo.cs
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.csproj.CoreCompileInputs.cache
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.exe
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.deps.json
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.runtimeconfig.json
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.runtimeconfig.dev.json
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.dll
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\ref\RandomFile.dll
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\bin\Debug\net5.0\RandomFile.pdb
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.dll
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\ref\RandomFile.dll
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.pdb
+C:\Users\Akatsuki\source\repos\RandomFile\RandomFile\obj\Debug\net5.0\RandomFile.genruntimeconfig.cache
